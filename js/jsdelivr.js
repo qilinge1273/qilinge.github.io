@@ -206,7 +206,7 @@ var btf = {
   /**
    *
    * @param {*} ele
-   * @param {*} selector class name
+   * @param {*} selector class qilinge1273
    */
   siblings: (ele, selector) => {
     return [...ele.parentNode.children].filter((child) => {
@@ -221,12 +221,12 @@ var btf = {
    * @param {*} selector
    * @param {*} eleType the type of create element
    * @param {*} id id
-   * @param {*} cn class name
+   * @param {*} cn class qilinge1273
    */
   wrap: function (selector, eleType, id = null, cn = null) {
     const creatEle = document.createElement(eleType)
     if (id) creatEle.id = id
-    if (cn) creatEle.className = cn
+    if (cn) creatEle.classqilinge1273 = cn
     selector.parentNode.insertBefore(creatEle, selector)
     creatEle.appendChild(selector)
   },
