@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/11/30/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc>
+    
+    <lastmod>2020-11-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/30/Freenom/</loc>
+    
+    <lastmod>2020-11-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/artitalk/index.html</loc>
     
     <lastmod>2020-11-29</lastmod>
@@ -39,7 +53,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
