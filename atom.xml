@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-03T14:02:10.759Z</updated>
+  <updated>2020-12-13T04:55:50.011Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python1</title>
+    <link href="http://example.com/2020/12/13/python1/"/>
+    <id>http://example.com/2020/12/13/python1/</id>
+    <published>2020-12-13T04:41:03.000Z</published>
+    <updated>2020-12-13T04:55:50.011Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="今天早上"><a href="#今天早上" class="headerlink" title="今天早上"></a>今天早上</h1><p>进行了青少年编程能力等级测试的<strong>python1级</strong><br>当然我也在学python<br>所以我也不例外<br>我觉得我其实还<strong>ok</strong><br>因为前面还简单<br>后面有一道操作题有点难<br>没错是<strong>海龟画图</strong><br>虽然不算难<br><strong>但是</strong><br>我没怎么实操过<br>所以被难住了<br>想学python的<em>不要怕</em><br>多实操考级的事能过的<br>毕竟我也才学3个月就考级了<br>认真听能过的加油吧少年！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;今天早上&quot;&gt;&lt;a href=&quot;#今天早上&quot; class=&quot;headerlink&quot; title=&quot;今天早上&quot;&gt;&lt;/a&gt;今天早上&lt;/h1&gt;&lt;p&gt;进行了青少年编程能力等级测试的&lt;strong&gt;python1级&lt;/strong&gt;&lt;br&gt;当然我也在学python&lt;br&gt;所以</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown</title>
